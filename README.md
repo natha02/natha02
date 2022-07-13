@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kalaha andrilalaina (@natha02)
 - 👀 i’m interested in computer science, video games, and japan animation.
-- 🌱 I am currently studying computer science at university of Reunion Island.
+- 🌱 I am currently studying computer science.
 - 💞️ 
 - 📫 How to reach me : kalaha.pro@gmail.com
