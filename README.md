@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my portfolio](www.andrilalaina-kalaha.com)
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, Express & rest API**
+- 🌱 I’m currently learning **ReactJS, NodeJS with => MongoDB, Express & rest API**
 
 - 👨‍💻 All of my projects are available at [www.andrilalaina-kalaha.com](www.andrilalaina-kalaha.com)
 
