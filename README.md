@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JAVA , JEE**
 
-- 📫 How to reach me **contact.pro@andrilalaina-kalaha.com**
+- 📫 How to reach me **contact.pro@andrilalaina-kalaha.com** or **kalaha.pro@gmail.com**
 
 - ⚡ **I'm passionnate about Japanese animation, videos games, and a good setup.**
 
